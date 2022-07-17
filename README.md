@@ -1,0 +1,5 @@
+- create-next-app
+- TypeScript
+- ESlint
+- Prettier
+- Husky & lint-staged
